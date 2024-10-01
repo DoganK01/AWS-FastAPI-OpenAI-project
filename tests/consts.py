@@ -4,3 +4,6 @@ from pathlib import Path
 
 THIS_DIR = Path(__file__).parent
 PROJECT_DIR = (THIS_DIR / "../").resolve()
+
+
+TEST_BUCKET_NAME = "mlops-cloud-course-test-bucket-dogan"
