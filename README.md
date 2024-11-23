@@ -1,9 +1,9 @@
-# cloud-course-project
+# AWS + FastAPI and OpenAI Python SDK
 
 ## Quick start
 
 ```bash
-pip install cloud-course-project
+pip install AWS-FastAPI-OpenAI-project
 ```
 
 ```python
@@ -24,7 +24,7 @@ You will need the following installed on your machine to develop on this codebas
 
 ```bash
 # clone the repo
-git clone https://github.com/<your github username>/cloud-course-project.git
+git clone https://github.com/DoganK01/AWS-FastAPI-OpenAI-project.git
 
 # install the dev dependencies
 make install
