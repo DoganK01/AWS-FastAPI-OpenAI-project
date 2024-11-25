@@ -1,4 +1,14 @@
-# AWS + FastAPI and OpenAI Python SDK
+# FastAPI OpenAPI Schema Generation & Validation
+
+This project provides a set of tools for generating and validating OpenAPI schemas for a FastAPI-based application. It ensures that the OpenAPI schema remains up-to-date with your FastAPI application, and helps you detect differences between the existing schema and the newly generated schema.
+
+## Features
+
+- **Generate OpenAPI Schema**: Automatically generates an OpenAPI schema from the FastAPI application.
+- **Validate Schema Changes**: Compares an existing OpenAPI schema with the newly generated one to detect any changes.
+- **Command-Line Interface (CLI)**: A simple CLI tool to generate and validate OpenAPI schemas.
+- **Integration with CI/CD**: Ensures that the OpenAPI schema in your repository is always up-to-date with the FastAPI application, preventing mismatches between your code and API documentation.
+
 
 ## Quick start
 
@@ -32,3 +42,11 @@ make install
 # run the tests
 make test
 ```
+
+## Contribution Guidelines
+We welcome contributions to this project! Please follow these steps:
+
+1. Fork the repository and create your branch.
+2. Install dependencies and run tests.
+3. Make your changes, ensuring the code is well-documented.
+4. Commit your changes and create a pull request.
