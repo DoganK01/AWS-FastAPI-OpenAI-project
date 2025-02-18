@@ -249,3 +249,5 @@ We welcome contributions to this project! Please follow these steps:
 2. Install dependencies and run tests.
 3. Make your changes, ensuring the code is well-documented.
 4. Commit your changes and create a pull request.
+
+Built in mlops course: https://mlops-club.org/
